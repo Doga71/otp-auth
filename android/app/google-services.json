@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50198168038",
+    "project_id": "fir-otp-auth-baec1",
+    "storage_bucket": "fir-otp-auth-baec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50198168038:android:473a0da1b6a7cdf2785627",
+        "android_client_info": {
+          "package_name": "in.adityakr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50198168038-3pcpf7ka9ktfii831fcj9urij3ciitcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNET4ZRK2ZrfEpmW6y_LIOIxuk8ZeMdHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50198168038-3pcpf7ka9ktfii831fcj9urij3ciitcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
